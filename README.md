@@ -1,7 +1,7 @@
 
 
 <div align="center">
- 
+  
 <!-- Banner Profissional -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=header&text=CYBERSECURITY%20ANALYST&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
@@ -37,16 +37,16 @@
 <div style="display: inline_block"><br>
    <!-- SIEM & Log Management -->
    <img align="center" alt="ThyagoPortes-Elastic" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg">
-   <!-- Network Security -->
-   <img align="center" alt="ThyagoPortes-pfSense" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+   <!-- Kali Linux Security -->
+   <img align="center" alt="ThyagoPortes-Kali" height="40" width="40" src="https://www.kali.org/images/kali-dragon-icon.svg">
+   <!-- Network Analysis -->
+   <img align="center" alt="ThyagoPortes-Wireshark" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg">
    <!-- Vulnerability Assessment -->
    <img align="center" alt="ThyagoPortes-Security" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
    <!-- Network Scanning -->
    <img align="center" alt="ThyagoPortes-Network" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-   <!-- Linux Security -->
+   <!-- Linux General -->
    <img align="center" alt="ThyagoPortes-Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-   <!-- Python for Security -->
-   <img align="center" alt="ThyagoPortes-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 </div>
